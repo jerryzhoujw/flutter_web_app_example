@@ -4,10 +4,10 @@ Try how to implemnt web app by flutter web.
 
 ## run
 
-> flutter channle beta
-> flutter upgrade
-> flutter run -d chrome
+> flutter channle beta\
+ flutter upgrade\
+ flutter run -d chrome
 
 ## effect
 
-![alt text](flutter web example.gif)
+![alt text](flutter_web_example.gif)
